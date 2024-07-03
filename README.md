@@ -41,8 +41,13 @@ Com estas funcionalidades, implementamos um CRUD completo (CREATE, READ, UPDATE,
 - **MySQL (para produção)**
 - **Maven (para gerenciamento de dependências)**
 
----
-
 ### Contribuições 🤝
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
+
+---
+<div align="center">
+ 
+![Badge-Spring](https://github.com/Elociny/Elociny/assets/90219522/b60f4e1f-5b9b-4d9a-b97d-7e5bcd07e7fa)
+
+</div>
