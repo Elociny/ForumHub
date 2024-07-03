@@ -1,4 +1,4 @@
-package com.elociny.forum.hub.curso;
+package com.elociny.forum.hub.domain.curso;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

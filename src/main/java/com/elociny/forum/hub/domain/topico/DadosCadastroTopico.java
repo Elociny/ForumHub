@@ -1,7 +1,7 @@
-package com.elociny.forum.hub.topico;
+package com.elociny.forum.hub.domain.topico;
 
-import com.elociny.forum.hub.autor.DadosAutor;
-import com.elociny.forum.hub.curso.DadosCurso;
+import com.elociny.forum.hub.domain.autor.DadosAutor;
+import com.elociny.forum.hub.domain.curso.DadosCurso;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

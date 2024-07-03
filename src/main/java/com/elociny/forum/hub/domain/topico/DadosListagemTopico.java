@@ -1,7 +1,4 @@
-package com.elociny.forum.hub.topico;
-
-import com.elociny.forum.hub.autor.Autor;
-import com.elociny.forum.hub.curso.Curso;
+package com.elociny.forum.hub.domain.topico;
 
 import java.time.LocalDateTime;
 

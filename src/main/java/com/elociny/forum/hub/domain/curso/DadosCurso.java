@@ -1,4 +1,4 @@
-package com.elociny.forum.hub.curso;
+package com.elociny.forum.hub.domain.curso;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

@@ -1,4 +1,4 @@
-package com.elociny.forum.hub.autor;
+package com.elociny.forum.hub.domain.autor;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

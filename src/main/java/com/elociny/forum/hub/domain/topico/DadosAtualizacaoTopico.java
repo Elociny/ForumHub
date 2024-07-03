@@ -1,6 +1,6 @@
-package com.elociny.forum.hub.topico;
+package com.elociny.forum.hub.domain.topico;
 
-import com.elociny.forum.hub.autor.Autor;
+import com.elociny.forum.hub.domain.autor.Autor;
 import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDateTime;

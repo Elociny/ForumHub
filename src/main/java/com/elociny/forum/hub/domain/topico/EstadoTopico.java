@@ -1,4 +1,4 @@
-package com.elociny.forum.hub.topico;
+package com.elociny.forum.hub.domain.topico;
 
 public enum EstadoTopico {
     AGUARDANDO,

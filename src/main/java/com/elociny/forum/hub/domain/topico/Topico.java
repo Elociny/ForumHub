@@ -1,7 +1,7 @@
-package com.elociny.forum.hub.topico;
+package com.elociny.forum.hub.domain.topico;
 
-import com.elociny.forum.hub.autor.Autor;
-import com.elociny.forum.hub.curso.Curso;
+import com.elociny.forum.hub.domain.autor.Autor;
+import com.elociny.forum.hub.domain.curso.Curso;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
