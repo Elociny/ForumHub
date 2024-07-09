@@ -1,4 +1,4 @@
-package com.elociny.forum.hub.infra;
+package com.elociny.forum.hub.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
