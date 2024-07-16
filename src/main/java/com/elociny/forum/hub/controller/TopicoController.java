@@ -2,6 +2,7 @@ package com.elociny.forum.hub.controller;
 
 import com.elociny.forum.hub.domain.topico.*;
 import com.elociny.forum.hub.infra.exception.DuplicateTopicException;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
@@ -16,6 +17,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("topicos")
+@SecurityRequirement(name = "bearer-key")
 public class TopicoController {
     @Autowired
     private TopicoRepository repository;
