@@ -2,7 +2,7 @@
  
 # Fórum.hub | Oracle + Alura 🌐
 
-`Staus: Em andamento ⚠️`
+`Staus: Finalizado ✅`
 
 </div>
 
